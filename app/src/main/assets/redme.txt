@@ -1,0 +1,6 @@
+deeplabv3_257_mv_gpu.tflite 不知道用的什么数据集训练的 效果不是太好
+
+
+frozen_inference_graph_cityscapes.pb 用的模型是mobilenetv2，数据集是mscoco 和cityscapse 效果最好
+
+frozen_inference_graph_mscoco.pb 用的模型是mobilenetv2，数据集是mscoco 效果也不错
